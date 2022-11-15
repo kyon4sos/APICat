@@ -1,7 +1,20 @@
-# Tauri + React + Typescript
+<center>
+<img src="https://nekostudiogithub.blob.core.windows.net/newcontainer/icon.png" width='200'>
+</center>
+<center style="font-size:40px;margin-top:-30px">
+ APICat
+</center>
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+<center>
+An API platform for building and using APIs.</br>
+Tauri + React + Typescript
+</center>
 
-## Recommended IDE Setup
+## Features
++ i18n 
++ custom color
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Screenshot
+
+![](https://nekostudiogithub.blob.core.windows.net/newcontainer/1.png)
+![](https://nekostudiogithub.blob.core.windows.net/newcontainer/2.png)
