@@ -1,0 +1,10 @@
+/Users/neko/demo/tauri-app-demo/src-tauri/target/debug/deps/xattr-0521ef79a3ddaaf7.rmeta: /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/lib.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/error.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/mod.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/util.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/neko/demo/tauri-app-demo/src-tauri/target/debug/deps/xattr-0521ef79a3ddaaf7.d: /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/lib.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/error.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/mod.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/util.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/lib.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/error.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/mod.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/util.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/xattr-0.2.3/src/sys/linux_macos/macos.rs:

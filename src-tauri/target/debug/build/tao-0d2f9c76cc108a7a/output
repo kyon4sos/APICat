@@ -1,0 +1,40 @@
+cargo:rustc-link-lib=framework=Carbon
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("0")
+HOST = Some("aarch64-apple-darwin")
+cargo:rerun-if-env-changed=CC_aarch64-apple-darwin
+CC_aarch64-apple-darwin = None
+cargo:rerun-if-env-changed=CC_aarch64_apple_darwin
+CC_aarch64_apple_darwin = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CFLAGS_aarch64-apple-darwin
+CFLAGS_aarch64-apple-darwin = None
+cargo:rerun-if-env-changed=CFLAGS_aarch64_apple_darwin
+CFLAGS_aarch64_apple_darwin = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = None
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-o" "/Users/neko/demo/tauri-app-demo/src-tauri/target/debug/build/tao-0d2f9c76cc108a7a/out/src/platform_impl/macos/carbon_hotkey/carbon_hotkey_binding.o" "-c" "src/platform_impl/macos/carbon_hotkey/carbon_hotkey_binding.c"
+exit status: 0
+cargo:rerun-if-env-changed=AR_aarch64-apple-darwin
+AR_aarch64-apple-darwin = None
+cargo:rerun-if-env-changed=AR_aarch64_apple_darwin
+AR_aarch64_apple_darwin = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+running: "ar" "cq" "/Users/neko/demo/tauri-app-demo/src-tauri/target/debug/build/tao-0d2f9c76cc108a7a/out/libcarbon_hotkey_binding.a.a" "/Users/neko/demo/tauri-app-demo/src-tauri/target/debug/build/tao-0d2f9c76cc108a7a/out/src/platform_impl/macos/carbon_hotkey/carbon_hotkey_binding.o"
+exit status: 0
+running: "ar" "s" "/Users/neko/demo/tauri-app-demo/src-tauri/target/debug/build/tao-0d2f9c76cc108a7a/out/libcarbon_hotkey_binding.a.a"
+exit status: 0
+cargo:rustc-link-lib=static=carbon_hotkey_binding.a
+cargo:rustc-link-search=native=/Users/neko/demo/tauri-app-demo/src-tauri/target/debug/build/tao-0d2f9c76cc108a7a/out

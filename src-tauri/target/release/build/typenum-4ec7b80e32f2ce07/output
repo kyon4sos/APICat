@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/neko/demo/tauri-app-demo/src-tauri/target/release/build/typenum-4ec7b80e32f2ce07/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/neko/demo/tauri-app-demo/src-tauri/target/release/build/typenum-4ec7b80e32f2ce07/out/op.rs

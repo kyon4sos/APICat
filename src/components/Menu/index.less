@@ -1,0 +1,23 @@
+.menu {
+  .ant-menu-item {
+    display: grid !important;
+    height: 60px !important;
+    padding-left: unset !important;
+    padding-right: unset !important;
+  }
+}
+
+.ant-menu-item .ant-menu-item-icon + span,
+.ant-menu-item .anticon + span,
+.ant-menu-submenu-title .ant-menu-item-icon + span,
+.ant-menu-submenu-title .anticon + span {
+  margin-left: 0px;
+}
+
+.ant-menu-item .ant-menu-item-icon + span,
+.ant-menu-item .anticon + span,
+.ant-menu-submenu-title .ant-menu-item-icon + span,
+.ant-menu-submenu-title .anticon + span {
+  opacity: 1;
+  transition: opacity 0.3s cubic-bezier(0.645, 0.045, 0.355, 1), margin 0.3s, color 0.3s;
+}

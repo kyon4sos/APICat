@@ -1,0 +1,5 @@
+cargo:rustc-cfg=custom_protocol
+cargo:rustc-cfg=desktop
+cargo:rustc-cfg=http_all
+cargo:rustc-cfg=http_request
+cargo:rustc-cfg=http_any

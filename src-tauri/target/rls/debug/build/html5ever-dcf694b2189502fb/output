@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/html5ever-0.25.2/src/tree_builder/rules.rs

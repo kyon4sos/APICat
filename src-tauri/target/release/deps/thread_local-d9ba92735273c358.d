@@ -1,0 +1,10 @@
+/Users/neko/demo/tauri-app-demo/src-tauri/target/release/deps/thread_local-d9ba92735273c358.rmeta: /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/lib.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/cached.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/thread_id.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/unreachable.rs
+
+/Users/neko/demo/tauri-app-demo/src-tauri/target/release/deps/libthread_local-d9ba92735273c358.rlib: /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/lib.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/cached.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/thread_id.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/unreachable.rs
+
+/Users/neko/demo/tauri-app-demo/src-tauri/target/release/deps/thread_local-d9ba92735273c358.d: /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/lib.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/cached.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/thread_id.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/unreachable.rs
+
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/lib.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/cached.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/thread_id.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/thread_local-1.1.4/src/unreachable.rs:

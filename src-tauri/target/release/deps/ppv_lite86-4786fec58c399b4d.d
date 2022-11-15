@@ -1,0 +1,10 @@
+/Users/neko/demo/tauri-app-demo/src-tauri/target/release/deps/ppv_lite86-4786fec58c399b4d.rmeta: /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/lib.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/soft.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/types.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/generic.rs
+
+/Users/neko/demo/tauri-app-demo/src-tauri/target/release/deps/libppv_lite86-4786fec58c399b4d.rlib: /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/lib.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/soft.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/types.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/generic.rs
+
+/Users/neko/demo/tauri-app-demo/src-tauri/target/release/deps/ppv_lite86-4786fec58c399b4d.d: /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/lib.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/soft.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/types.rs /Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/generic.rs
+
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/lib.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/soft.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/types.rs:
+/Users/neko/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/ppv-lite86-0.2.16/src/generic.rs:
